@@ -16,4 +16,9 @@
 • Insert a PivotTable on a new tab to show revenue by month.  
 • Add two more PivotTables (on the same sheet) to show the number of transactions by day of week and by hour of day.  
 • Add a PivotTable (on the same sheet) to show the number of transactions by product category, sorted descending by transactions.  
-• Add a PivotTable (on the same sheet) to show the number of transactions and revenue by product type, sorted descending and filtered to the Top 15 (by transactions.  
+• Add a PivotTable (on the same sheet) to show the number of transactions and revenue by product type, sorted descending and filtered to the Top 15 (by transactions. 
+
+
+### SCREENSHOT 
+<img width="536" height="535" alt="image" src="https://github.com/user-attachments/assets/e8dc1f2d-93bd-49d1-bc97-c6285b30058d" />
+
