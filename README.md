@@ -20,5 +20,5 @@
 
 
 ### SCREENSHOT 
-<img width="536" height="535" alt="image" src="https://github.com/user-attachments/assets/e8dc1f2d-93bd-49d1-bc97-c6285b30058d" />
+<img width="736" height="535" alt="image" src="https://github.com/user-attachments/assets/e8dc1f2d-93bd-49d1-bc97-c6285b30058d" />
 
